@@ -5,7 +5,7 @@ cask "chicken-land" do
   url "https://github.com/SnailChicken/Chicken-Land/releases/download/blank/Chicken.Land.1.0.0.dmg",
       verified: "github.com/SnailChicken/Chicken-Land/"
   name "Chicken Land"
-  desc "Electron wrapper for ez-spain.com/chickens"
+  desc "Cute game with chickens"
   homepage "https://ez-spain.com/chickens"
 
   app "Chicken Land.app"
