@@ -1,12 +1,12 @@
 cask "chicken-land" do
   version "1.0.0"
-  sha256 "7a80e7186545e72ecef0c9b37ed3dddee1d14ed6a404a6558b190c44f4b36211"
+  sha256 "d725c73150fad18f47b214b0cb857861892e30518d7dab779056bf0fe3696f17"
 
   url "https://github.com/SnailChicken/Chicken-Land/releases/download/V2/Chicken.Land.dmg",
       verified: "github.com/SnailChicken/Chicken-Land/"
   name "Chicken Land"
   desc "Cute game with chickens"
-  homepage "https://ez-spain.com/chickenlandapp"
+  homepage "https://ez-spain.com/chickenlandapp/"
 
   app "Chicken Land.app"
 end
