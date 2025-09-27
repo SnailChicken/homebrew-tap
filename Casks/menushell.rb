@@ -1,11 +1,11 @@
 cask "menushell" do
   version "1.0.0"
-  sha256 "d725c73150fad18f47b214b0cb857861892e30518d7dab779056bf0fe3696f17"
+  sha256 "8c619a46cf2b03a3f7a208d671cd071af07dff37a04eff181d2f99aa03a8a91e"
 
   url "https://github.com/SnailChicken/MenuShell/releases/download/V1/MenuShell.dmg",
-      verified: "https://github.com/SnailChicken/MenuShell"
+      verified: "github.com/SnailChicken/MenuShell"
   name "MenuShell"
-  desc "A termianl for the menu bar"
+  desc "A terminal for the menu bar"
   homepage "https://ez-spain.com/menushell/"
 
   app "MenuShell.app"
